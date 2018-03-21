@@ -1,4 +1,4 @@
-# GoogleMaps LocationHistory Visualization
+# GoogleMaps Location History Visualization
 
 Visualization of GoogleMaps Location History using [gmplot](https://github.com/vgm64/gmplot). 
 
